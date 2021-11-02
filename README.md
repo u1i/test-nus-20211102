@@ -4,5 +4,5 @@
 
 lorem ipsum hadkfhlia;ljlaej;hfkjadfbkejfk
 
-*this is a list item
-*this is another list item
+* this is a list item
+* this is another list item
